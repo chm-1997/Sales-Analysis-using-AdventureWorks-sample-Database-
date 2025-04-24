@@ -13,4 +13,4 @@ The business request is an executive sales report for sales managers. Based on t
 - The data model contains fact tables and dimension tables.
 - Some measures are created for the dashboard.
 - The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
-- You can click [here](Sale for interactive viewing.
+- You can click [here](Sale.pbix) for interactive viewing.
