@@ -8,5 +8,5 @@ The business request was an executive sales report for sales managers. Based on 
 - To create the necessary data model for analysis and fulfilling the business needs defined in the user stories, the tables were extracted using SQL.
 - One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
 # Data Visualization (Power BI)
-![screenshot]("Screenshot of dashboard.png")
+![screenshot](Screenshot_of_dashboard.png)
 
